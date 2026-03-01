@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Ain't Shit (Official Live Performance) | Vevo",
+  "base_artist": "Doja Cat",
+  "createdAt": "2026-03-01T04:35:29.062850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bitches Ain't Shit",
+      "artist": "Lil Jon, Eastside Boys, Snoop Dogg, Nate Dogg & Suga Free",
+      "has_synced": false,
+      "path": "select/01_Bitches_Ain't_Shit_Lil_Jon,_Eastside_Boys,_Snoop_Dogg,_Nate_Dogg_&_Suga_Free.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bitches Ain't Shit",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/02_Bitches_Ain't_Shit_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ain't Shit",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/03_Ain't_Shit_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Ain't Shit Man",
+      "artist": "Wax and EOM",
+      "has_synced": true,
+      "path": "select/04_You_Ain't_Shit_Man_Wax_and_EOM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ain't shit",
+      "artist": "doja cat",
+      "has_synced": true,
+      "path": "select/05_ain't_shit_doja_cat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ain't Shit",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/06_Ain't_Shit_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bitches Ain't Shit",
+      "artist": "Ben Folds",
+      "has_synced": true,
+      "path": "select/07_Bitches_Ain't_Shit_Ben_Folds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Size Ain't Shit",
+      "artist": "Geto Boys",
+      "has_synced": false,
+      "path": "select/08_Size_Ain't_Shit_Geto_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hoes Ain't Shit",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/09_Hoes_Ain't_Shit_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pussy Ain't Shit",
+      "artist": "Funkdoobiest",
+      "has_synced": true,
+      "path": "select/10_Pussy_Ain't_Shit_Funkdoobiest.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bitches Ain't Shit (feat. Snoop Dogg, Nate Dogg, Suga Free & Oobie)",
+      "artist": "Lil Jon & The Eastside Boyz",
+      "has_synced": false,
+      "path": "select/11_Bitches_Ain't_Shit_(feat._Snoop_Dogg,_Nate_Dogg,_Suga_Free_&_Oobie)_Lil_Jon_&_The_Eastside_Boyz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There Ain't Shit On T.V. Tonight",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/12_There_Ain't_Shit_On_T.V._Tonight_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "There Ain't Shit on TV Tonight",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/13_There_Ain't_Shit_on_TV_Tonight_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everybody Ain’t Shit (with EARTHGANG)",
+      "artist": "Dreamville feat. EARTHGANG",
+      "has_synced": true,
+      "path": "select/14_Everybody_Ain’t_Shit_(with_EARTHGANG)_Dreamville_feat._EARTHGANG.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everybody Ain't Shit (feat. EARTHGANG)",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/15_Everybody_Ain't_Shit_(feat._EARTHGANG)_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "That Right Ain't Shit",
+      "artist": "The Books",
+      "has_synced": false,
+      "path": "select/16_That_Right_Ain't_Shit_The_Books.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bitches Ain't Shit (Feat. Snoop Dogg)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/17_Bitches_Ain't_Shit_(Feat._Snoop_Dogg)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bitches Aint Shit",
+      "artist": "g3e!",
+      "has_synced": false,
+      "path": "select/18_Bitches_Aint_Shit_g3e!.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "That Nigga Ain't Shit!",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/19_That_Nigga_Ain't_Shit!_Mystikal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ain't Shit",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_Ain't_Shit_Doja_Cat.txt"
+    }
+  ]
+}
