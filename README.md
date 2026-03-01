@@ -1,0 +1,64 @@
+# Doja Cat – Ain't Shit (Official Live Performance) | Vevo
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.74] Man
+[00:06.86] This happened one, two, three times too much
+[00:13.81] These dumb-ass niggas
+[00:24.31] 
+[00:15.66] Niggas ain't shit, come up in your crib
+[00:19.48] All up in your fridge, can't pay rent
+[00:23.16] Look at what you did, listen to your friends
+[00:27.15] When they say, niggas ain't shit, 'cause
+[00:31.03] Niggas ain't shit, come up in your crib
+[00:34.94] All up in your fridge, can't pay rent
+[00:38.50] Look at what you did, listen to your friends
+[00:42.48] When they say, niggas ain't shit, 'cause
+[01:02.48] 
+[00:46.04] You can say that again
+[00:47.39] Niggas is square like Madison
+[00:49.23] I can't even really get mad at them
+[00:51.28] They fall, then I gotta facepalm
+[00:52.81] Shook him like an 8-ball and it's embarrassing
+[00:55.06] Ten-page text, should've wrote a book, could've made a bag
+[00:57.85] But he broke and he still waiting 'til I can chill
+[00:59.76] And he really think I'ma get back to him
+[01:19.76] 
+[01:01.82] Doing too much, relax a bit
+[01:03.85] Acting like that 'cause your dad's a bitch
+[01:05.73] Must be the way that the planets is
+[01:07.72] Must be your face 'cause it's not your dick
+[01:09.94] I'm a freak, not a masochist
+[01:11.51] Should've known you had the baddest bitch
+[01:13.50] Left on read and can't give head
+[01:15.21] Really, you ain't shit, need a laxative
+[01:34.71] 
+[01:17.52] Niggas ain't shit, come up in your crib
+[01:21.33] All up in your fridge, can't pay rent
+[01:25.29] Look at what you did, listen to your friends
+[01:29.28] When they say, niggas ain't shit, 'cause
+[01:33.07] Niggas ain't shit, come up in your crib
+[01:36.95] All up in your fridge, can't pay rent
+[01:40.60] Look at what you did, listen to your friends
+[01:44.43] When they say, niggas ain't shit, 'cause
+[02:04.43] 
+[01:47.94] Said that's not cheating if I wasn't with your ass, yo
+[01:52.36] You kept secrets and your cousin told me that, so (your cousin)
+[01:56.19] Logical thinking is just something that you lack, so
+[02:00.08] What you even mad for? Looking like a stick up in your asshole
+[02:31.08] 
+[02:04.00] I'm not your mommy, nigga, find a new hobby, nigga
+[02:07.99] Return, yo, 'fore I get picked up, your shit's in the lobby, nigga
+[02:11.86] I'm not gon' key your car, I'll call your fucking mom
+[02:15.64] You should have paid my rent, go get a fucking job
+[02:40.64] 
+[02:19.49] Niggas ain't shit, come up in your crib
+[02:23.59] All up in your fridge, can't pay rent
+[02:27.03] Look at what you did, listen to your friends
+[02:30.90] When they say, niggas ain't shit, 'cause
+[02:34.96] Niggas ain't shit, come up in your crib
+[02:38.80] All up in your fridge, can't pay rent
+[02:42.57] Look at what you did, listen to your friends
+[02:46.49] When they say, niggas ain't shit, 'cause
+```
